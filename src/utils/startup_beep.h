@@ -1,0 +1,1 @@
+void invokeStartupBeep(unsigned int buzzerPin);

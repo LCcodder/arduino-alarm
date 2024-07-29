@@ -1,0 +1,1 @@
+int convertTimeToLength(int duration);
